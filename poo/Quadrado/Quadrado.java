@@ -1,4 +1,3 @@
-package Quadrado;
 public class Quadrado {
     private float lado;
 
