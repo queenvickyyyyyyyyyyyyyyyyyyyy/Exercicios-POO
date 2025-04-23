@@ -1,5 +1,3 @@
-package Circulo;
-
 public class Circulo {
     private float raio;
     private final float PI = 3.1415f;
